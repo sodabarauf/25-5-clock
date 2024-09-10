@@ -16,7 +16,7 @@ The project replicates the functionality of the 25 + 5 Clock as specified by fre
 
 ![Demo](./src/assets/capture_240910_174951.png)
 <br>
- [Live-link]()
+ [Live-link](https://25-5-clock-i0ms11bqt-sodabaraufs-projects.vercel.app/)
 
 ## Features 🎉
 - **Adjustable Lengths**: Custom durations for work sessions and breaks.
